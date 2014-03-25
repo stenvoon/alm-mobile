@@ -1,7 +1,0 @@
-{
-    "config": {
-        "almWebServiceBaseUrl": "https://rally1.rallydev.com/slm",
-        "appName": "Rally ALM Mobile",
-        "mode": "board"
-    }
-}

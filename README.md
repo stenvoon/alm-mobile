@@ -4,7 +4,8 @@ Development of the mobile Rally Software ALM platform is a project of Rally Inno
 
 Use of this mobile application is on an as-is, as-available basis and it not subject to Rally’s Service Level Agreement. Support of this mobile application, evolution of this application and even ongoing existence of this Rally Labs mobile application is not guaranteed.
 
-ALM Mobile [![Stories in Ready](https://badge.waffle.io/RallySoftwareLabs/alm-mobile.png?label=ready)](http://waffle.io/RallySoftwareLabs/alm-mobile)
+ALM Mobile [![Stories in Ready](https://badge.waffle.io/RallySoftwareLabs/alm-mobile.png?label=ready)](http://waffle.io/RallySoftwareLabs/alm-mobile) ![Codeship Status](https://www.codeship.io/projects/e7f0fae0-968a-0131-fa4d-1a109796dfb2/status)
+
 =========
 
 This site is currently running at https://m.rallydev.com.
