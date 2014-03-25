@@ -201,7 +201,7 @@ module.exports = (grunt) ->
       client:
         reporter: 'tap'
 
-    aws: grunt.file.readJSON('grunt-aws.json')
+    aws: if grunt.file.exists('grunt-aws.json') then grunt.file.readJSON('grunt-aws.json') else {}
     s3:
       options:
         key: '<%= aws.key %>'
